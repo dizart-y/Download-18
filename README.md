@@ -10,4 +10,4 @@ buat kalian pada sange pakai program di jamin crot :v
 
 pkg update
 pkg upgrade
-git clone
+git clone https://github.com/dizart-y/Download-18
