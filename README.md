@@ -11,3 +11,4 @@ buat kalian pada sange pakai program di jamin crot :v
 pkg update
 pkg upgrade
 git clone https://github.com/dizart-y/Download-18
+cd Download-18
